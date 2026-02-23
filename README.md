@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/images/icon.png" alt="App Icon" width="120" height="120" />
+<!-- <img src="assets/images/icon.png" alt="App Icon" width="120" height="120" /> -->
 
-# 🧠 Cognitive Games
+# 🧠 Blync
 
-### *Train smarter. Score higher. Get placed.*
+<!-- ### *Train smarter. Score higher. Get placed.* -->
 
 A high-performance **iOS & Android** app for practicing cognitive ability tests used in placement assessments at top-tier tech companies — built with React Native & Expo.
 
@@ -24,13 +24,9 @@ A high-performance **iOS & Android** app for practicing cognitive ability tests 
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-> _Add your app screenshots here_
-
-| Home | Game Select | Leaderboard |
-|------|-------------|-------------|
-| `screenshot_home.png` | `screenshot_games.png` | `screenshot_leaderboard.png` |
+![preview](assets/images/preview.png)
 
 ---
 
