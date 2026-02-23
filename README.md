@@ -24,9 +24,9 @@ A high-performance **iOS & Android** app for practicing cognitive ability tests 
 
 ---
 
-## 📸 Preview
+<!-- ## 📸 Preview
 
-![preview](assets/images/preview.png)
+![preview](assets/images/preview.png) -->
 
 ---
 
