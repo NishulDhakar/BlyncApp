@@ -2,7 +2,7 @@
 
 <!-- <img src="assets/images/icon.png" alt="App Icon" width="120" height="120" /> -->
 
-# 🧠 Blync
+# Blync
 
 <!-- ### *Train smarter. Score higher. Get placed.* -->
 
@@ -18,68 +18,68 @@ A high-performance **iOS & Android** app for practicing cognitive ability tests 
 
 <br/>
 
-[📱 Download](#-quick-start) · [🐛 Report a Bug](https://github.com/NishulDhakar/BlyncWeb/issues) · [✨ Request a Feature](https://github.com/NishulDhakar/BlyncWeb/issues)
+[Download](#-quick-start) | [Report a Bug](https://github.com/NishulDhakar/BlyncWeb/issues) | [Request a Feature](https://github.com/NishulDhakar/BlyncWeb/issues)
 
 </div>
 
-<!-- ## 📸 Preview
+<!-- ## Preview
 
 ![preview](assets/images/preview.png) -->
 
 ---
 
-## 🎯 Why Cognitive Games?
+## Why Cognitive Games?
 
 Most candidates walk into cognitive placement tests cold. **Cognitive Games** changes that — offering a dedicated mobile platform to practice the exact assessment formats used by top tech companies, so you're confident on test day.
 
-- ✅ Authentic test formats — not generic brain teasers
-- ✅ Mobile-first — practice anywhere, anytime
-- ✅ Performance tracking — see your growth over time
-- ✅ Beautiful UX — actually enjoyable to use
+- [x] Authentic test formats — not generic brain teasers
+- [x] Mobile-first — practice anywhere, anytime
+- [x] Performance tracking — see your growth over time
+- [x] Beautiful UX — actually enjoyable to use
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎮 Game Modes
+### Game Modes
 Practice six distinct cognitive assessment types found in real placement exams:
 
 | Game | What It Tests |
 |------|---------------|
-| 🧩 **Memory Challenge** | Short-term recall and visual memory |
-| 🔲 **Grid Challenge** | Spatial awareness and pattern recognition |
-| 🔢 **Digit Challenge** | Number processing and working memory |
-| 🏃 **Motion Challenge** | Reaction time and dynamic tracking |
-| 💡 **Deductive Reasoning** | Logical inference and rule application |
-| ➕ More coming soon... | — |
+| **Memory Challenge** | Short-term recall and visual memory |
+| **Grid Challenge** | Spatial awareness and pattern recognition |
+| **Digit Challenge** | Number processing and working memory |
+| **Motion Challenge** | Reaction time and dynamic tracking |
+| **Deductive Reasoning** | Logical inference and rule application |
+| *More coming soon...* | — |
 
-### 📊 Progress & Leaderboards
+### Progress & Leaderboards
 - Global leaderboard rankings to benchmark against others
 - Detailed per-game performance analytics
 - Session history to track improvement over time
 
-### 🎨 Cozy Minimalist Design
+### Cozy Minimalist Design
 A warm, soft neo-brutalist UI — thick borders, flat style, and playful interactions that make practice feel less like studying and more like gaming.
 
-### ⚡ Silky Smooth Performance
+### Silky Smooth Performance
 Built on **React Native Reanimated 3** and **Gesture Handler** to deliver 60fps animations across all game types, including sliding puzzles and motion-based challenges.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
 | **Framework** | Expo + Expo Router | File-based routing & cross-platform build tooling |
 | **Language** | TypeScript 5 | Fully typed codebase |
 | **Styling** | NativeWind v4 | Tailwind utility classes compiled to native styles |
-| **Animations** | Reanimated 3 + Gesture Handler | 60fps physics-based animations & touch gestures |
+| **Animations** | Reanimated 3 + Gesture Handler | 60fps animations & touch gestures |
 | **State** | Zustand | Lightweight global state (Auth, Theme, Game logic) |
 | **UI Extras** | Expo Blur & Linear Gradient | Native overlays and backgrounds |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Get the app running locally in under 2 minutes.
 
@@ -114,13 +114,13 @@ npx expo start -c
 
 | Platform | How |
 |----------|-----|
-| 📱 **Real Device** | Scan the QR code in the terminal with the [Expo Go](https://expo.dev/go) app |
-| 🍎 **iOS Simulator** | Press `i` in the terminal |
-| 🤖 **Android Emulator** | Press `a` in the terminal |
+| **Real Device** | Scan the QR code in the terminal with the [Expo Go](https://expo.dev/go) app |
+| **iOS Simulator** | Press `i` in the terminal |
+| **Android Emulator** | Press `a` in the terminal |
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 The project uses a **feature-based architecture** combined with Expo Router conventions:
 
@@ -148,7 +148,7 @@ src/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make open source great. Whether you're fixing a bug, suggesting a game mode, or improving the UI — we'd love your help!
 
@@ -163,7 +163,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting.
 
 ---
 
-## 🐛 Known Issues / Roadmap
+## Known Issues / Roadmap
 
 - [ ] Offline mode support
 - [ ] Dark / Light theme toggle
@@ -173,7 +173,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting.
 
 ---
 
-## 📄 License
+## License
 
 Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details. Free to use, modify, and distribute.
 
@@ -181,7 +181,7 @@ Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for detai
 
 <div align="center">
 
-Built with ❤️ by [Nishul Dhakar](https://www.nishul.dev)
+Built with <3 by [Nishul Dhakar](https://www.nishul.dev)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nishuldhakar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nishuldhakar)
