@@ -3,6 +3,7 @@
     "name": "Blync",
     "slug": "Blync",
     "version": "1.0.0",
+    "icon": "./src/assets/images/icon.png",
     "orientation": "portrait",
     "scheme": "blync",
     "userInterfaceStyle": "automatic",
@@ -13,14 +14,19 @@
     "android": {
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.nishuldhakar.Blync"
+      "package": "com.nishuldhakar.blync",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/android-icon-foreground.png",
+        "backgroundColor": "#ffffff"
+      }
     },
     "web": {
       "output": "static"
     },
     "plugins": [
       "expo-router",
-      "expo-web-browser"
+      "expo-web-browser",
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true,
