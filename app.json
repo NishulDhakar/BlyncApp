@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Blync",
+    "slug": "Blync",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "blync",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.nishuldhakar.Blync"
+    },
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "26489504-c0d7-4d00-afb9-beebe5ea9747"
+      }
+    }
+  }
+}
